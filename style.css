@@ -40,8 +40,8 @@ body,html {
 }
 
 .playing {
-  transform: scale(1.1);
-  border-color: #02a6ea;
+  transform: scale(2);
+  border-color: #bb3333;
   box-shadow: 0 0 1rem #02a6ea;
 }
 
